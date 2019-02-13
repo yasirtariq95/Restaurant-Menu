@@ -1,0 +1,77 @@
+body{
+	background-color: #FFCC00;
+}
+h1{
+	text-align: center;
+	color: #A4A400;
+	background: #F0F0F0;
+}
+
+h2{
+	text-align: center;
+	color: #A4A400;
+	background: #F0F0F0;
+}
+
+.button{
+	background-color: #A4A400;
+	color: darkblue;
+	padding: 10px 32px;
+}
+
+.ing{
+	font-family: "Times New Roman";
+	font-size: 24;
+}
+
+img{
+	float: left;
+}
+
+.dir{
+	font-family: "Times New Roman";
+	font-size: 24;
+}
+
+.ser{
+	font-family: "Times New Roman";
+	font-size: 20;
+}
+
+.nut{
+	font-family: "Times New Roman";
+	font-size: 24;
+}
+
+.recrat{
+	font-family: "Times New Roman";
+	font-size: 24;
+}
+
+table{
+	border-collapse: collapse;
+	align-content: center;
+	overflow: hidden;
+}
+table, th, td {
+  border: 1px solid black;
+  padding:10px; 
+  text-align: center;
+  color: #FFFFFF;
+  border-color: #FFFFFF;
+  border: 3px solid;
+}
+
+
+th{
+	background-color: #003366;
+}
+td{
+	background-color: #CC9933;
+}
+
+#big{
+	background-color: #F0F0F0;
+	color: #A4A400;
+}
+

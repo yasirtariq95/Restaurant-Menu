@@ -1,0 +1,17 @@
+body{
+	background-color: #FFCC00;
+}
+
+.button{
+	background-color: #A4A400;
+	color: darkblue;
+	padding: 10px 32px;
+}
+
+h1{
+	text-align: center;
+	color: #A4A400;
+	background: #F0F0F0;
+	margin-top: 200px;
+	font: 900 96px 'Courgette', cursive;
+}

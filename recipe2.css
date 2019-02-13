@@ -1,0 +1,36 @@
+body{
+	background-color: #FFCC00;
+}
+h1{
+	text-align: center;
+	color: #A4A400;
+	background: #F0F0F0;
+}
+
+h2{
+	text-align: center;
+	color: #A4A400;
+	background: #F0F0F0;
+}
+
+.button{
+	background-color: #A4A400;
+	color: darkblue;
+	padding: 10px 32px;
+}
+
+.pie{
+
+	float: left;
+	width: 40%;
+}
+
+.ing{
+	font-family: "Times New Roman";
+	font-size: 24;
+}
+
+.dir{
+	font-family: "Times New Roman";
+	font-size: 24;
+}
